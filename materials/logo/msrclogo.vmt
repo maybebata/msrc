@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "logo/msrclogo"
+	"$translucent" 1
+        "$alphatest" "1"
+}
