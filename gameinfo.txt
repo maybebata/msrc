@@ -5,6 +5,7 @@
 	supportsvr	1
 
 	type		singleplayer_only
+        icon            "resource/icon"
 
 	FileSystem
 	{
