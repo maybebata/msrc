@@ -1,6 +1,6 @@
 "GameInfo"
 {
-	game 		"Madness: Source"
+	game 		"Madness: Source dev build"
 	gamelogo        1
 	supportsvr	1
 
